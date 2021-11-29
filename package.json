@@ -1,0 +1,22 @@
+{
+  "name": "coding_evulution29thnov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishreyya/coding_evolution.git"
+  },
+  "author": "harish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishreyya/coding_evolution/issues"
+  },
+  "homepage": "https://github.com/harishreyya/coding_evolution#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
