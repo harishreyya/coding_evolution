@@ -10,13 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/harishreyya/coding_evolution.git"
   },
-  "author": "harish",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/harishreyya/coding_evolution/issues"
   },
   "homepage": "https://github.com/harishreyya/coding_evolution#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
   }
 }
